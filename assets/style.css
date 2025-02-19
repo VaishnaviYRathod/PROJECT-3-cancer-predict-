@@ -1,0 +1,15 @@
+/* Center align headings */
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* Increase font size */
+body {
+    font-size: 18px;
+}
+
+/* Style for success & error messages */
+.stAlert {
+    font-weight: bold;
+    border-radius: 10px;
+}
